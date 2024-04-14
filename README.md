@@ -10,6 +10,11 @@ JS – modestly
 
 <br>
 
+Portfolio: <br>
+[github.io/VRNas](https://webamoeba.github.io/VRNas/index.html) 🌎
+
+<br>
+
 Socials: <br>
 <a href="https://t.me/webAmoeba">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
