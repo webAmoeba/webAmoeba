@@ -11,9 +11,9 @@ JS – modestly
 <br>
 
 Portfolio: <br>
-[VRNas](https://webamoeba.github.io/VRNas/index.html) 🌎
-[Круизы в Антарктику](https://webamoeba.github.io/antarctic-cruises/index.html) 🌎
-[Smart Device](https://webamoeba.github.io/smart-device/index.html) 🌎
+[VRNas](https://webamoeba.github.io/VRNas/index.html) 🌎 <br>
+[Круизы в Антарктику](https://webamoeba.github.io/antarctic-cruises/index.html) 🌎 <br>
+[Smart Device](https://webamoeba.github.io/smart-device/index.html) 🌎 <br>
 [Supergym](https://webamoeba.github.io/supergym/index.html) 🌎
 
 <br>
