@@ -15,7 +15,7 @@ Skills: <br>
 <br>
 
 Portfolio: <br>
-[Main own site]([https://webamoeba.ru/) 🌎 <br>
+[Main own site](https://webamoeba.ru/) 🌎 <br>
 
 Socials: <br>
 <a href="https://t.me/webAmoeba">
