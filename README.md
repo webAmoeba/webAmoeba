@@ -15,8 +15,7 @@ Skills: <br>
 <br>
 
 Portfolio: <br>
-[VRNas](https://webamoeba.github.io/VRNas/sitemap.html) 🌎 <br>
-[Wildberries Parser](https://w-parser.webamoeba.ru/) 🌎 <br>
+[Main own site]([https://webamoeba.ru/) 🌎 <br>
 
 Socials: <br>
 <a href="https://t.me/webAmoeba">
